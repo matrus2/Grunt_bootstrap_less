@@ -1,0 +1,6 @@
+{
+  "name": "matrus",
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
