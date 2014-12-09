@@ -1,6 +1,6 @@
 Grunt_bootstrap_less
 ====================
-With this package you can start frontend project based on Bootstrap. 
+With this package you can start frontend project based on Bootstrap. <br>
 1. Simply clone it. 
 2. Update bower dependencies.
 3. Update npn dependencies.
