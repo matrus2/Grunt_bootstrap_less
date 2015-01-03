@@ -18,5 +18,11 @@ In case of a grunt error (no flatten method):
 <br><br>
     Delete the node_modules folder<br>
     Do npm cache clean<br>
-    Do npm install<br>
-
+    Do npm install<br><br>
+In case of Netbeans error (project in memory):
+<br>
+    Delete nbproject folders.<br>
+    <br>
+In case of Grunt Uglify error:
+<br>
+Change order of proper files in gruntfile.js    
