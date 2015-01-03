@@ -2,6 +2,8 @@ Grunt_bootstrap_less
 ====================
 With this package you can start frontend project based on Bootstrap. <br>
 1. Simply clone this repository. <br>
+    - (In NetBeans Team->Git->Clone)
+    - (New HTML5 Project from existing source)
 2. Update bower dependencies.<br>
 3. Update npn dependencies.<br>
 4. Tape 'grunt' in command line.<br>
