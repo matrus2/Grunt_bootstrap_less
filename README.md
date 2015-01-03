@@ -12,3 +12,11 @@ With this package you can start frontend project based on Bootstrap. <br>
 4. Tape 'grunt' in command line.<br>
 
 Folders /js and /less contain source files you should work with. Grunt watches changes and saves it to public folder. 
+
+
+In case of a grunt error (no flatten method):
+<br><br>
+    Delete the node_modules folder<br>
+    Do npm cache clean<br>
+    Do npm install<br>
+
