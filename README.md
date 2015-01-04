@@ -15,7 +15,7 @@ Folders /js and /less contain source files you should work with. Grunt watches c
 
 
 In case of a grunt error (no flatten method):
-<br><br>
+<br>
     Delete the node_modules folder<br>
     Do npm cache clean<br>
     Do npm install<br><br>
@@ -26,3 +26,6 @@ In case of Netbeans error (project in memory):
 In case of Grunt Uglify error:
 <br>
 Change order of proper files in gruntfile.js    
+<br>
+TODO:<br>
+- move glyphicons font to public directory
