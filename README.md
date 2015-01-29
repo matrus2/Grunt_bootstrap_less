@@ -27,5 +27,8 @@ In case of Grunt Uglify error:
 <br>
 Change order of proper files in gruntfile.js    
 <br>
+In case of watch error do:<br>
+npm install grunt-contrib-watch --save-dev
+<br>
 TODO:<br>
 - move glyphicons font to public directory
