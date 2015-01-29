@@ -31,7 +31,7 @@ In case of watch error do:<br>
 npm install grunt-contrib-watch --save-dev
 <br>
 TODO:<br>
-- move glyphicons font to public directory
+move glyphicons font to public directory
 <br>
 <br>
 <br>
