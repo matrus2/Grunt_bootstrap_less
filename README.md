@@ -1,5 +1,4 @@
 <h2>Grunt_bootstrap_less</h2>
-====================
 With this package you can start frontend project based on Bootstrap. <br>
 1. Simply clone this repository. <br>
 2. Update bower dependencies.<br>
