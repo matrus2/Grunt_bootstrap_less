@@ -41,8 +41,6 @@ module.exports = function(grunt) {
         js_frontend: {
           files: [
             //watched files
-            'bower_components/jquery/jquery.js',
-            'bower_components/bootstrap/dist/js/bootstrap.js',
             'js/scripts.js'
             ],   
           tasks: ['concat:js_frontend','uglify:frontend'],     //tasks to run
