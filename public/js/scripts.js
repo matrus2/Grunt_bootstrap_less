@@ -3,5 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-alert('asds');
+define(['jquery'],function(){
+    'use strict';
+    alert('asd');
+    console.log('asdsa');
+});
 
